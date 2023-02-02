@@ -5,12 +5,12 @@ WIP : Identification of marine species from EMSO Azores deep-sea obervatory
 
 To launch it, first install the package then run [deepaas](https://github.com/indigo-dc/DEEPaaS):
 ```bash
-git clone https://gitlab.ifremer.fr/jb06098/marine_species_seg
+git clone https://github.com/jmbIFR/DEEP-OC-marine_species_seg
 cd marine_species_seg
 pip install -e .
 deepaas-run --listen-ip 0.0.0.0
 ```
-The associated Docker container for this module can be found in https://gitlab.ifremer.fr/jb06098/DEEP-OC-marine_species_seg.
+The associated Docker container for this module can be found in https://github.com/jmbIFR/DEEP-OC-marine_species_seg
 
 ## Project structure
 ```

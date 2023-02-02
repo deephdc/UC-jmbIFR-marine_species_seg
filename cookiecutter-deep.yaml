@@ -6,7 +6,7 @@
 
 
 default_context:
-    git_base_url: "https://gitlab.ifremer.fr/jb06098"
+    git_base_url: "https://github.com/jmbIFR"
     project_name: "emzo_azores_instance_segmentation"
     repo_name: "marine_species_seg"
     author_name: "Jean-Marie BAUDET"
