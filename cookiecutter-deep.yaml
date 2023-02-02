@@ -1,0 +1,22 @@
+# based on https://marketplace.deep-hybrid-datacloud.eu/modules/deep-data-science-template.html
+# $ pip install cookiecutter
+# $ cookiecutter --config-file ~/devISI/github/jmbIFR/cookiecutter-deep.yaml https://github.com/indigo-dc/cookiecutter-data-science
+
+
+
+
+default_context:
+    git_base_url: "https://gitlab.ifremer.fr/jb06098"
+    project_name: "emzo_azores_instance_segmentation"
+    repo_name: "marine_species_seg"
+    author_name: "Jean-Marie BAUDET"
+    author_email: "jean.marie.baudet@ifremer.fr"
+    description: "WIP : Identification of marine species from EMSO Azores deep-sea obervatory"
+    app_version: "0.0.1"
+    open_source_license: "MIT"
+    docker_baseimage: "tensorflow/tensorflow"
+    baseimage_cpu_tag: "2.11.0"
+    baseimage_gpu_tag: "2.11.0-gpu"
+ 
+
+
