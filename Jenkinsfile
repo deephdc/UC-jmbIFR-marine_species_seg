@@ -13,7 +13,7 @@ pipeline {
         author_name = "Jean-Marie BAUDET"
         author_email = "jean.marie.baudet@ifremer.fr"
         app_name = "marine_species_seg"
-        job_location = "Pipeline-as-code/DEEP-OC-org/UC-jb06098-DEEP-OC-marine_species_seg/${env.BRANCH_NAME}"
+        job_location = "Pipeline-as-code/DEEP-OC-org/UC-jmbIFR-DEEP-OC-marine_species_seg/${env.BRANCH_NAME}"
     }
 
     stages {
