@@ -1,7 +1,7 @@
 # emzo_azores_instance_segmentation
 [![Build Status](https://jenkins.indigo-datacloud.eu/buildStatus/icon?job=Pipeline-as-code/DEEP-OC-org/UC-jmbIFR-marine_species_seg/master)](https://jenkins.indigo-datacloud.eu/job/Pipeline-as-code/job/DEEP-OC-org/job/UC-jmbIFR-marine_species_seg/job/master)
 
-WIP : Identification of marine species from EMSO Azores deep-sea obervatory
+WIP  Identification of marine species from EMSO Azores deep-sea obervatory
 
 To launch it, first install the package then run [deepaas](https://github.com/indigo-dc/DEEPaaS):
 ```bash
